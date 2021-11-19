@@ -1,5 +1,5 @@
 import openpyxl
-import os
+
 path='D:\\'
 
 
